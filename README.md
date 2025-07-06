@@ -3,18 +3,19 @@
 
 <p align="center">
   <a href="mailto:pdiya2945@gmail.com" target="_blank" rel="noopener noreferrer" title="Email">
-    📧
+    Email
   </a> &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/pdiya13" target="_blank" rel="noopener noreferrer" title="LinkedIn">
-    🔗
+    LinkedIn
   </a> &nbsp;&nbsp;
   <a href="https://leetcode.com/pdiya13" target="_blank" rel="noopener noreferrer" title="LeetCode">
-    💻
+    LeetCode
   </a> &nbsp;&nbsp;
   <a href="https://www.codechef.com/users/pdiya13" target="_blank" rel="noopener noreferrer" title="CodeChef">
-    🍳
+    CodeChef
   </a>
 </p>
+
 
 ---
 
