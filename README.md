@@ -1,6 +1,21 @@
 <h1 align="center">Hi there 👋, I'm Diya Patel</h1>
 <p align="center"><i>A passionate learner exploring full-stack development, competitive programming & real-world software building</i></p>
 
+<p align="center">
+  <a href="mailto:pdiya2945@gmail.com" target="_blank" rel="noopener noreferrer" title="Email">
+    📧
+  </a> &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/pdiya13" target="_blank" rel="noopener noreferrer" title="LinkedIn">
+    🔗
+  </a> &nbsp;&nbsp;
+  <a href="https://leetcode.com/pdiya13" target="_blank" rel="noopener noreferrer" title="LeetCode">
+    💻
+  </a> &nbsp;&nbsp;
+  <a href="https://www.codechef.com/users/pdiya13" target="_blank" rel="noopener noreferrer" title="CodeChef">
+    🍳
+  </a>
+</p>
+
 ---
 
 ### 🚀 About Me
@@ -56,10 +71,12 @@
 
 <p align="left">
   💌 Email: <a href="mailto:pdiya2945@gmail.com">pdiya2945@gmail.com</a><br>
-  🌐 GitHub: <a href="https://github.com/Pdiya13" target="_blank">Pdiya13</a>
+  🔗 LinkedIn: <a href="https://www.linkedin.com/in/pdiya13" target="_blank">linkedin.com/in/pdiya13</a><br>
+  💻 LeetCode: <a href="https://leetcode.com/pdiya13" target="_blank">leetcode.com/pdiya13</a><br>
+  🍳 CodeChef: <a href="https://www.codechef.com/users/pdiya13" target="_blank">codechef.com/users/pdiya13</a><br>
+  🌐 GitHub: <a href="https://github.com/Pdiya13" target="_blank">github.com/Pdiya13</a>
 </p>
 
 ---
 
 _“Stay curious. Keep building.”_
-
