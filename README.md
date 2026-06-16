@@ -15,7 +15,7 @@
 
 ---
 
-## 🌸 About Me
+## About Me
 
 I'm a **Full Stack & Backend Developer** pursuing **B.Tech in Computer Engineering** at **Dharmsinh Desai University** (**CPI: 9.11**). I enjoy building impactful software solutions — from **event-driven microservices** and **AI-powered applications** to **full-stack web platforms**. Passionate about solving challenging problems, I continuously strive to strengthen my skills in **Data Structures & Algorithms**, **software development**, and **modern technologies**.
 
